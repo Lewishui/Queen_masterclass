@@ -1,0 +1,16 @@
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\Queen_masterclassified.exe.config
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\Queen_masterclassified.exe
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\Queen_masterclassified.pdb
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\obj\Debug\Queen_masterclassified.csprojResolveAssemblyReference.cache
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\obj\Debug\Queen_masterclassified.Form1.resources
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\obj\Debug\Queen_masterclassified.Properties.Resources.resources
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\obj\Debug\Queen_masterclassified.csproj.GenerateResource.Cache
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\obj\Debug\Queen_masterclassified.exe
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\obj\Debug\Queen_masterclassified.pdb
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\QM.Buiness.dll
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\QM.DB.dll
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\Geckofx-Winforms.dll
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\Interop.SHDocVw.dll
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\Geckofx-Core.dll
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\QM.Buiness.pdb
+C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\Queen_masterclassified\Queen_masterclassified\bin\Debug\QM.DB.pdb
