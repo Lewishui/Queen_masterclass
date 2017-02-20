@@ -22,3 +22,15 @@ C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\QM.Buiness\obj\D
 C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\QM.Buiness\obj\Debug\QM.Buiness.csproj.ResolveComReference.cache
 C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\QM.Buiness\obj\Debug\QM.Buiness.dll
 C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_masterclass\QM.Buiness\obj\Debug\QM.Buiness.pdb
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\bin\Debug\QM.Buiness.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\bin\Debug\QM.Buiness.pdb
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\bin\Debug\Geckofx-Core.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\bin\Debug\Geckofx-Winforms.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\bin\Debug\QM.DB.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\bin\Debug\QM.DB.pdb
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\bin\Debug\Interop.SHDocVw.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\obj\Debug\QM.Buiness.csprojResolveAssemblyReference.cache
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\obj\Debug\Interop.SHDocVw.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\obj\Debug\QM.Buiness.csproj.ResolveComReference.cache
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\obj\Debug\QM.Buiness.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.Buiness\obj\Debug\QM.Buiness.pdb

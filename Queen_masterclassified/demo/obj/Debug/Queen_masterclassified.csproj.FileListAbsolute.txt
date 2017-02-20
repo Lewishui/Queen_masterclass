@@ -1,0 +1,16 @@
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\demo.exe.config
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\demo.exe
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\demo.pdb
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\QM.Buiness.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\QM.DB.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\Geckofx-Winforms.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\Interop.SHDocVw.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\Geckofx-Core.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\QM.Buiness.pdb
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\bin\Debug\QM.DB.pdb
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\obj\Debug\Queen_masterclassified.csprojResolveAssemblyReference.cache
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\obj\Debug\demo.Form1.resources
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\obj\Debug\demo.Properties.Resources.resources
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\obj\Debug\Queen_masterclassified.csproj.GenerateResource.Cache
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\obj\Debug\demo.exe
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\Queen_masterclassified\demo\obj\Debug\demo.pdb

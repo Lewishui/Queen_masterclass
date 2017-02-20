@@ -3,3 +3,8 @@ C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_master\QM.DB\bin\Debug\QM.DB
 C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_master\QM.DB\obj\Debug\QM.DB.dll
 C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_master\QM.DB\obj\Debug\QM.DB.pdb
 C:\mysteap\work_office\ProjectOut\GZ_baijiale\Queen_master\QM.DB\obj\Debug\QM.DB.csprojResolveAssemblyReference.cache
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.DB\bin\Debug\QM.DB.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.DB\bin\Debug\QM.DB.pdb
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.DB\obj\Debug\QM.DB.csprojResolveAssemblyReference.cache
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.DB\obj\Debug\QM.DB.dll
+D:\Dev Project\GZ_Caipiao\Queen_masterclass\QM.DB\obj\Debug\QM.DB.pdb
